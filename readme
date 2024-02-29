@@ -1,0 +1,25 @@
+This is a console program using C#
+
+Develop a menu driven application that a teacher should be able to use to perform the following operations to maintain a class list in an ascending order by students first name but if first name is same then by last name using Linked List data structure:
+-	add a new student to have a list. Two students’ can’t have the same first and last name. (2 points)
+-	remove a student with the given name (1 point)
+-	display all the students with complete detail of each student. (1 point)
+
+For each student, it is maintaining the following information:
+-	first and last name of student
+-	%age score of all labs
+-	%age score of all assignments
+-	Details of each lab i.e. lab number, score obtained and maximum score using the Queue data structure.
+-	Details of each assignment i.e. assignment number, score obtained and maximum score using stack data structure.
+
+For each student, teacher should be able to perform the following operation with the lab:
+-	Add a new lab. Two labs can’t have the same lab number. (1 point)
+-	Remove an existing lab of a student when the lab number of the lab is provided. (1 point)
+-	Update the score of given lab when the lab number of the lab is provided along with the new lab information (1 point)
+-	Display details of all the labs of a student. (1 point)
+
+For each student, teacher should be able to perform the following operation with the assignment:
+-	Add a new assignment. Two assignments can’t have the same assignment number. (1 point)
+-	Remove an existing assignment of a student when the assignment number of the assignment is provided. (1 point)
+-	Update the score of given assignment when the assignment number of the assignment is provided along with the new assignment information (1 point)
+-	Display details of all the assignments of a student (1 point)
